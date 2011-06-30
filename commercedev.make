@@ -6,39 +6,22 @@ projects[admin_menu][type] = module
 
 projects[entity][subdir] = contrib
 projects[entity][type] = module
-projects[entity][download][type] = cvs
-projects[entity][download][module] = contributions/modules/entity
-projects[entity][download][revision] = DRUPAL-7--1
 
 projects[rules][subdir] = contrib
 projects[rules][type] = module
-projects[rules][download][type] = cvs
-projects[rules][download][module] = contributions/modules/rules
-projects[rules][download][revision] = DRUPAL-7--2
 
 projects[addressfield][subdir] = contrib
 projects[addressfield][type] = module
-projects[addressfield][download][type] = cvs
-projects[addressfield][download][module] = contributions/modules/addressfield
-projects[addressfield][download][revision] = DRUPAL-7--1
 
 projects[commerce_paypal][subdir] = contrib
 projects[commerce_paypal][type] = module
-projects[commerce_paypal][download][type] = cvs
-projects[commerce_paypal][download][module] = contributions/modules/commerce_paypal
-projects[commerce_paypal][download][revision] = HEAD
+projects[commerce_paypal][version] = 1.x-dev
 
 projects[ctools][subdir] = contrib
 projects[ctools][type] = module
-projects[ctools][download][type] = cvs
-projects[ctools][download][module] = contributions/modules/ctools
-projects[ctools][download][revision] = DRUPAL-7--1
 
 projects[views][subdir] = contrib
 projects[views][type] = module
-projects[views][download][type] = cvs
-projects[views][download][module] = contributions/modules/views
-projects[views][download][revision] = DRUPAL-7--3
 
 projects[commerce][subdir] = contrib
 projects[commerce][type] = module
